@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  total: 9.99
+  payment_method: 1
+  is_devivery: false
+  city_delivery: MyString
+  address_delivery: MyString
+  zip_code: MyString
+
+two:
+  client: two
+  total: 9.99
+  payment_method: 1
+  is_devivery: false
+  city_delivery: MyString
+  address_delivery: MyString
+  zip_code: MyString
